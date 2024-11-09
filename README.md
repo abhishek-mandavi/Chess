@@ -3,6 +3,7 @@
 
 
 Socket.io Initialization:
+
 -Establish WebSocket connection to the server using Socket.io (const socket = io();).
 
 Chess Game Initialization:
